@@ -10,7 +10,7 @@ sobre GIT.
   Trabajar con ramas.
 
 ## Objetivo
-Crearemos una web para el instituto IES Pablo Picasso :EMOJICODE:school
+Crearemos una web para el instituto IES Pablo Picasso :school:
 ![Logo del IES Pablo Picasso](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
 ## Ejemplos
